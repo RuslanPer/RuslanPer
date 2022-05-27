@@ -1,4 +1,4 @@
-![Header](https://github.com/RuslanPer/RuslanPer/blob/main/assets/header1.jpg)
+![Header](https://github.com/RuslanPer/RuslanPer/blob/main/assets/Hello!%20I'm%20Ruslan.png)
 
 ## Languages and Tools 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-476481?style=for-the-badge&logo=javascript)
