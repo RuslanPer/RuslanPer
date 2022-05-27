@@ -1,7 +1,8 @@
 ![Header](https://github.com/RuslanPer/RuslanPer/blob/main/assets/header1.jpg)
 
-About me
+## I am a frontend developer
 
-Languages and Tools
+Languages and Tools 
 
 Follow Mew
+    
