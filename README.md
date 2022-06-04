@@ -1,11 +1,8 @@
-![Header](https://github.com/RuslanPer/RuslanPer/blob/main/assets/Hello!%20I'm%20Ruslan.png)
-
 ## Languages and Tools 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-476481?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-476481?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/-React-476481?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-476481?style=for-the-badge&logo=redux)
-
 
 ## Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-476481?style=for-the-badge&logo=telegram)](https://t.me/ruslanpershin)
