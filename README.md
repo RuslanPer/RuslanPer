@@ -1,5 +1,3 @@
-[![Header](https://github.com/RuslanPer/RuslanPer/blob/main/assets/Hello!%20I'm%20Ruslan.png)](https://t.me/ruslanpershin)
-
 ## Languages and Tools 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-476481?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-476481?style=for-the-badge&logo=typescript)
